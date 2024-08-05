@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "3390",
+      "title": "my first website",
+      "body": "this is made by react",
+      "author": "ravi"
+    },
+    {
+      "id": "84c7",
+      "title": "hello",
+      "body": "it is a party",
+      "author": "ravi"
+    },
+    {
+      "id": "54c5",
+      "title": "hello",
+      "body": "it is a party",
+      "author": "ravi"
+    }
+  ]
+}
